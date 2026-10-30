@@ -1,0 +1,10 @@
+# RSS sources for the lightweight business opportunity monitor
+# One feed URL per line. This file is public; do not add credentials or private URLs.
+https://www.sidehustlenation.com/feed
+https://mywifequitherjob.com/feed
+https://www.ezindie.com/feed/rss.xml
+https://hnrss.org/show
+https://www.producthunt.com/feed
+https://www.reddit.com/r/SideProject/new/.rss
+https://www.reddit.com/r/smallbusiness/new/.rss
+https://www.reddit.com/r/EtsySellers/new/.rss
