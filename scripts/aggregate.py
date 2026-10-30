@@ -8,6 +8,7 @@ import re
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+import feedparser
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "feed-sources.txt"
@@ -65,25 +66,29 @@ def plain_text(value, limit=360):
 
 
 def parse_feed(xml_bytes, cutoff, source_name):
-    root = ET.fromstring(xml_bytes)
+    parsed_feed = feedparser.parse(xml_bytes)
+    if not parsed_feed.entries and parsed_feed.get('bozo'):
+        raise ValueError(str(parsed_feed.get('bozo_exception', 'Malformed RSS feed')))
     items = []
-    for element in root.iter():
-        kind = local_name(element.tag)
-        if kind not in {"item", "entry"}:
-            continue
-        title = child_text(element, {"title"}) or "(无标题)"
-        link = entry_link(element)
-        date_value = child_text(element, {"published", "pubdate", "date", "updated"})
+    for entry in parsed_feed.entries:
+        title = entry.get("title", "(无标题)")
+        link = entry.get("link", "")
+        date_value = entry.get("published") or entry.get("updated") or entry.get("created")
         published = parse_date(date_value)
         if not link or not published or published < cutoff:
             continue
-        summary = child_text(element, {"summary", "description", "encoded", "content"})
+        summary = entry.get("summary") or entry.get("description") or entry.get("content", [{}])[0].get("value", "")
+        source = source_name
+        # Merged feeds retain the original subreddit as their label.
+        match = re.search(r"reddit\\.com/r/([^/]+)", link, flags=re.I)
+        if match:
+            source = "Reddit r/" + match.group(1)
         items.append({
             "title": plain_text(title, 220),
             "link": link,
             "published": published,
             "summary": plain_text(summary),
-            "source": source_name,
+            "source": source,
         })
     return items
 
@@ -97,6 +102,8 @@ def main():
         if not url or url.startswith("#"):
             continue
         source_name = url.split("//", 1)[-1].split("/", 1)[0]
+        if "reddit.com/r/" in url:
+            source_name = "Reddit communities"
         request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/atom+xml, application/rss+xml, application/xml, text/xml"})
         try:
             with urllib.request.urlopen(request, timeout=25) as response:
