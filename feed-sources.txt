@@ -5,6 +5,5 @@ https://mywifequitherjob.com/feed
 https://www.ezindie.com/feed/rss.xml
 https://hnrss.org/show
 https://www.producthunt.com/feed
-https://www.reddit.com/r/SideProject/new/.rss
-https://www.reddit.com/r/smallbusiness/new/.rss
-https://www.reddit.com/r/EtsySellers/new/.rss
+# Combined Reddit communities: one request reduces anonymous rate-limit pressure
+https://www.reddit.com/r/SideProject+smallbusiness+EtsySellers/new/.rss
