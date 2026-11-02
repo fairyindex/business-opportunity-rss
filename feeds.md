@@ -1,6 +1,6 @@
 # RSS 新内容汇总
 
-更新时间：2026-11-02 03:52 UTC · 收录最近 7 天 · 92 条
+更新时间：2026-11-02 03:58 UTC · 收录最近 7 天 · 91 条
 
 > 这是 RSS 发现清单。发布日期来自订阅源；摘要可能不完整，阅读时请打开原始链接核实。
 
@@ -12,10 +12,20 @@
 | mywifequitherjob.com | 4 | 正常 |
 | www.ezindie.com | 1 | 正常 |
 | hnrss.org | 20 | 正常 |
-| www.producthunt.com | 42 | 正常 |
+| www.producthunt.com | 41 | 正常 |
 | Reddit communities | 25 | 正常 |
 
 ## 最新内容
+
+### [[Show Off] I built a free Markdown converter with a split-pane editor, KaTeX math, Mermaid diagrams, and VS Code-style output — all 100% client-side](https://www.reddit.com/r/SideProject/comments/1xln7uu/show_off_i_built_a_free_markdown_converter_with_a/)
+**来源：** Reddit communities · **发布时间：** 2026-11-02 03:57 UTC
+
+Hey r/SideProject , I've been working on this for a few weeks and it's finally in a state I'm happy enough to share. What it is: A free, browser-based Markdown conversion tool that handles MD → PDF, HTML, DOCX, and Text (plus the reverse: PDF/HTML/DOCX/Text → Markdown). Everything runs 100% client-side — your files never leave your browser. What makes it…
+
+### [Diple - A customizable writing space for journals on iPhone and iPad](https://www.reddit.com/r/SideProject/comments/1xln631/diple_a_customizable_writing_space_for_journals/)
+**来源：** Reddit communities · **发布时间：** 2026-11-02 03:54 UTC
+
+Diple for iPhone and iPad lets you set up the page around how you write and reread a journal entry. Choose the app theme and a light or dark appearance, set the document's writing paper, and adjust the font and text size. Writing paper can use a preset background or your own image. The editing mode is another part of the setup. Live lets you write while…
 
 ### [LLM-Reader: The Fastest PDF AI Companion](https://www.reddit.com/r/SideProject/comments/1xln186/llmreader_the_fastest_pdf_ai_companion/)
 **来源：** Reddit communities · **发布时间：** 2026-11-02 03:47 UTC
@@ -151,16 +161,6 @@ https://reddit.com/link/1xlkwev/video/n3wjvu5vv3zh1/player I built Pixel Agents 
 **来源：** Reddit communities · **发布时间：** 2026-11-02 01:55 UTC
 
 Looking at a hypothetical situation where a small contracting business does around $45k in monthly revenue but only keeps $12k to $15k in the account after payroll and overhead. Say there's $8,400 in materials due Friday, another $3,200 owed to a subcontractor and about $19k in customer invoices that won't clear for another 2 to 3 weeks. The money is coming…
-
-### [I got a parking ticket in Brooklyn and had no idea if it was worth fighting, so I built a thing that shows the city's own numbers](https://www.reddit.com/r/SideProject/comments/1xlkqnq/i_got_a_parking_ticket_in_brooklyn_and_had_no/)
-**来源：** Reddit communities · **发布时间：** 2026-11-02 01:51 UTC
-
-I'm Mehyar. I build small software in Brooklyn. This one started with a ticket on my own windshield. I stood there doing the same thing everyone does — is this worth fighting, or do I just pay it and move on? I had no real basis for the guess. The ticket said what I supposedly did wrong, and that was it. So I built TicketBeat. You put in the violation code…
-
-### [Relay Raiders: an AI-assisted squad battler with ten-hero teams and zombie combat](https://www.reddit.com/r/SideProject/comments/1xlkn53/relay_raiders_an_aiassisted_squad_battler_with/)
-**来源：** Reddit communities · **发布时间：** 2026-11-02 01:46 UTC
-
-I am developing Relay Raiders with AI assistance for implementation, testing, original zombie models and this post. This is a promotional showcase of a work-in-progress browser game, with actual gameplay and sound. Choose ten heroes across five roles and an opening strategy, then use attack boost, healing, a targeted meteor and evasion during combat. Heroes…
 
 ### [Show HN: Skep – live cross-device sessions for AI coding agents](https://skepagent.com/)
 **来源：** hnrss.org · **发布时间：** 2026-11-02 01:20 UTC
@@ -421,11 +421,6 @@ Follow AI models and agents like you follow people Discussion | Link
 **来源：** www.producthunt.com · **发布时间：** 2026-10-27 20:58 UTC
 
 Track your revenue, analytics, and website performance Discussion | Link
-
-### [Teable Mobile](https://www.producthunt.com/products/teable-4)
-**来源：** www.producthunt.com · **发布时间：** 2026-10-27 09:21 UTC
-
-Build the systems your team runs on, now from your phone Discussion | Link
 
 ### [SparkBots AI (Powered by Jev)](https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs)
 **来源：** www.producthunt.com · **发布时间：** 2026-10-27 05:29 UTC
