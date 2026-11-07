@@ -1,6 +1,6 @@
 # RSS 新内容汇总
 
-更新时间：2026-11-06 04:47 UTC · 收录最近 7 天 · 90 条
+更新时间：2026-11-07 04:16 UTC · 收录最近 7 天 · 87 条
 
 > 这是 RSS 发现清单。发布日期来自订阅源；摘要可能不完整，阅读时请打开原始链接核实。
 
@@ -12,457 +12,442 @@
 | mywifequitherjob.com | 1 | 正常 |
 | www.ezindie.com | 1 | 正常 |
 | hnrss.org | 20 | 正常 |
-| www.producthunt.com | 43 | 正常 |
+| www.producthunt.com | 40 | 正常 |
 | Reddit communities | 25 | 正常 |
 
 ## 最新内容
 
-### [Ai-Free Logo design app](https://www.reddit.com/r/smallbusiness/comments/1xp3xfv/aifree_logo_design_app/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:37 UTC
+### [I got tired of paying ~240/mo for ManyChat + Sprout, so I’m building a flat-price version: feedback welcome](https://www.reddit.com/r/SideProject/comments/1xpx2sx/i_got_tired_of_paying_240mo_for_manychat_sprout/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 04:08 UTC
 
-Looking for an app like canva without the sneaky AI slop!! Free or paid as long as it isnt outrageous! submitted by /u/textbook-blank to r/smallbusiness [link] [comments]
+What it is: PostMesa schedules posts to Instagram, Facebook, YouTube, X and TikTok, and replies to comments with a public reply plus a DM with a button (on Instagram and Facebook; public replies on YouTube). One flat price per workspace, no per-contact fees. Why I built it: I run a small devotional app. I was paying about $240 a month across ManyChat and…
 
-### [I made a Discord/Github Intergration Tool[Need Testers PLZ]](https://www.reddit.com/r/SideProject/comments/1xp3x3h/i_made_a_discordgithub_intergration_toolneed/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:36 UTC
+### [I launched my first camera app on the App Store today: one take, vertical and horizontal video at once](https://www.reddit.com/r/SideProject/comments/1xpx27u/i_launched_my_first_camera_app_on_the_app_store/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 04:07 UTC
 
-🌐 Try Threadle: https://threadle.teamhjd.com You can try Threadle here before adding to your discord server https://github.com/Team-HJD-21/threadle-playground 💬 Join our Discord: https://discord.gg/t62pnWn7Yj submitted by /u/HateFellow to r/SideProject [link] [comments]
+After months of building and a public beta with 30+ testers, ShutterLine is live. The idea came from my own frustration: every video had to be shot twice, once vertical for Reels/TikTok and once horizontal for YouTube. ShutterLine records both at the same time. Along the way it turned into a full pro camera (manual controls, ProRes, Apple Log, RAW, film…
 
-### [I built Still, an open-source browser with AI companions that browse and do tasks in background tabs](https://www.reddit.com/r/SideProject/comments/1xp3vwk/i_built_still_an_opensource_browser_with_ai/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:34 UTC
+### [I built a site for parents to check books & movies before their kids read/watch them — what should I change?](https://www.reddit.com/r/SideProject/comments/1xpx0vu/i_built_a_site_for_parents_to_check_books_movies/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 04:05 UTC
 
-I built Still. It is a real browser for Windows 10/11 and macOS 12+ with AI companions that work in their own background tabs: reading pages, clicking, typing, filling forms, then reporting back. They run on the AI app you are already signed into: Claude Code, ChatGPT agent CLI, Grok Build, Gemini CLI, or OpenCode. You can also connect an OpenAI- or…
+I built a site to help parents figure out whether a book or movie is actually a good fit for their child, beyond just seeing something like “Ages 10+.” Dickens & Rumi shows age guidance, content cautions, positive themes, series reading order, and the reasons behind ratings. The problem is that I’ve spent a lot of time building and polishing it, but traffic…
 
-### [I built an all-in-one studio that runs entirely in your browser.](https://www.reddit.com/r/SideProject/comments/1xp3px2/i_built_an_allinone_studio_that_runs_entirely_in/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:25 UTC
+### [I built Ava AI — basically Jarvis for your desktop.](https://www.reddit.com/r/SideProject/comments/1xpwyfx/i_built_ava_ai_basically_jarvis_for_your_desktop/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 04:02 UTC
 
-Why are simple image tools so bloated? You just want to remove a background, resize an image, or create an app icon, but you're forced to upload files to random cloud servers, watch ads, or hit a paywall after 3 tries. I made Imago Studio to fix this: A lightweight, zero-upload web app that handles all your daily image workflows right on your CPU/GPU using…
+submitted by /u/Jyothirao to r/SideProject [link] [comments]
 
-### [Empresarios encargados de limpiar $losucio que es lo mejor de su trabajo y es fácil entrar ?](https://www.reddit.com/r/smallbusiness/comments/1xp3ii0/empresarios_encargados_de_limpiar_losucio_que_es/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:14 UTC
+### [How do I explain to prospects that I don’t do commodity SEO?](https://www.reddit.com/r/smallbusiness/comments/1xpwvud/how_do_i_explain_to_prospects_that_i_dont_do/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:58 UTC
 
-Leo todos los comentarios submitted by /u/Key_Reference_2754 to r/smallbusiness [link] [comments]
+I run a boutique consultancy. You’d think that means I’m stupid expensive but that’s not the case, we do our best to keep pricing fair and honest. We’ve been getting in sales calls and keep running into the “well how many pages will you optimize?” “How many backlinks will we get?” “How many keywords will you track?” The honest answer is that we build…
 
-### [CapyWash - an iPhone app to help decide when to hang laundry outside](https://www.reddit.com/r/SideProject/comments/1xp3iag/capywash_an_iphone_app_to_help_decide_when_to/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:13 UTC
+### [Show HN: Promptcheckup – pass/fail check for prompt changes, with 95% intervals](https://github.com/gael55x/promptcheckup)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 03:52 UTC
 
-Hi everyone! I’m building CapyWash: Laundry Forecast around a small everyday decision: should I wash now, or wait for better drying weather? Instead of interpreting a general weather forecast, you get a Yes, Not Ideal, or No recommendation, plus hourly drying estimates for the next 12 hours. I’ve recently updated it to 2.0 , with an improved laundry score,…
+Article URL: https://github.com/gael55x/promptcheckup Comments URL: https://news.ycombinator.com/item?id=50401468 Points: 1 # Comments: 0
 
-### [I spent 100 bucks on a concert outfit I hated, so I built an outfit-finding app. Would this actually help you?](https://www.reddit.com/r/SideProject/comments/1xp3gij/i_spent_100_bucks_on_a_concert_outfit_i_hated_so/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:11 UTC
+### [Show HN: Did prediction markets do any predicting this midterms?](https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 03:50 UTC
 
-I bought tickets to a Sienna Spiro concert really last minute and spent the days before it trying things on. Somehow every outfit got worse. I ended up panic-buying a $100 outfit that I still didn’t like. The concert was amazing, but the outfit situation helped inspire something I’m building called Lobbe. You enter what you’re dressing for, like a concert,…
+I've heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver's FLIPR model, they are really a wash. Especially looking at flipped or close-by-polls races, there is no alpha compared to a traditional poll-based model. Was this obvious to everyone else too? Can we treat them…
 
-### [I built Mulan, a Safari extension with four reading themes and per-site settings](https://www.reddit.com/r/SideProject/comments/1xp3d9w/i_built_mulan_a_safari_extension_with_four/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:06 UTC
+### [I built an Android aquarium app with a daily Japanese fortune](https://www.reddit.com/r/SideProject/comments/1xpwp4i/i_built_an_android_aquarium_app_with_a_daily/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:48 UTC
 
-Hi, I'm the developer of Mulan, a Safari extension for iPhone and iPad. It changes website colors for reading, with four themes: Soft Dark, Black, Warm Gray, and Paper. The part I'd like feedback on is the per-site control. You can keep one website on a dark theme, use Paper on another, and leave a third untouched. Theme, image brightness, and on/off mode…
+I'm the developer of Omikuji: Fortune Aquarium, a small Android app that pairs a daily omikuji (Japanese fortune slip) with a fish tank. The loop is simple: draw a fortune, collect creatures over time, and watch them in your aquarium. This clip is real Play-release footage from a Pixel 9a. The angelfish shown here comes from the first-creature selection,…
 
-### [Literally Grammarly but free and so MUCH better](https://www.reddit.com/r/SideProject/comments/1xp3cr3/literally_grammarly_but_free_and_so_much_better/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:05 UTC
+### [I built a live-verified directory of email/identity tools for AI agents (50 entries)](https://www.reddit.com/r/SideProject/comments/1xpwk1o/i_built_a_liveverified_directory_of_emailidentity/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:40 UTC
 
-I got tired of using Grammarly's three free writes or wtv. Also I don't have to go into chatgpt when I want to refine smthn now submitted by /u/Traditional_Major825 to r/SideProject [link] [comments]
+Agent email roundups are mostly vendor-written and go stale fast, so I built a small neutral directory: https://agentinboxes.dev It covers agent inboxes, inbound routing, identity APIs, and transactional email APIs: 50 tools, re-checked automatically so dead ones drop off. No pay-to-rank. Two questions for you: which providers am I missing, and is…
 
-### [I've been building Polymarket bots that you can inspect and modify](https://www.reddit.com/r/SideProject/comments/1xp39ue/ive_been_building_polymarket_bots_that_you_can/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 04:00 UTC
+### [Show HN: Backwords – Let AI teach you how to speak in reverse](https://backwords.greg.technology/)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 03:39 UTC
 
-I run PolyTraderBot. I've been putting a lot of work into making it useful for people who want a starting point for their own trading tools. The download includes readable Python source, the browser dashboard, tests and Docker setup. You can change the strategy or risk controls privately and run it on your own PC or VPS. There are bots for copying wallets,…
+Article URL: https://backwords.greg.technology/ Comments URL: https://news.ycombinator.com/item?id=50401409 Points: 9 # Comments: 2
 
-### [For dog owners: a weekly lake-safety map using EPA's CyAN satellite data for algae blooms](https://www.reddit.com/r/SideProject/comments/1xp30g3/for_dog_owners_a_weekly_lakesafety_map_using_epas/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:47 UTC
+### [You can now watch your agents attached to a hash chain, signed, and stamped by DigiCert.](https://www.reddit.com/r/SideProject/comments/1xpwfvj/you_can_now_watch_your_agents_attached_to_a_hash/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:34 UTC
 
-Helps to know how bluegreen algae is present in a lake, check the ones nearby to you for your dogs safety https://bloomwatchbytenebroso.com A static Python site rebuilt weekly by a GitHub Action. It pulls the 300 m Sentinel-3 CyAN histograms for 134 matched lakes and rates each one by how much of the lake is affected, not by the worst pixel, since single…
+Hi, I’m the founder of Verity. Essentially I keep records of agent actions for People, so that way when the audit trail becomes necessary, people will have it for free. You can get your key now. I just dropped it this evening on top of my no counterparty series. https://www.verityverdict.com/start/ submitted by /u/W1RELESS to r/SideProject [link] [comments]
 
-### [My cursor kept landing on the wrong monitor, so I spent months teaching my Mac to follow my eyes](https://www.reddit.com/r/SideProject/comments/1xp2sud/my_cursor_kept_landing_on_the_wrong_monitor_so_i/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:36 UTC
+### [I’m bringing my live chess tournament app from iOS to Android — looking for early feedback](https://www.reddit.com/r/SideProject/comments/1xpwfal/im_bringing_my_live_chess_tournament_app_from_ios/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:33 UTC
 
-Winq is my side project, built with Tauri to stay tiny and fast. The hard part was calibration. People move their head and eyes differently, so Winq measures both and picks whichever of three tracking styles is most accurate for you. Next I added Seen, a way to ask about anything you’ve read, and a catch-up card for when you look away during a call. It…
+I’m the developer of Watch Chess, a side project for following professional chess tournaments. It’s already available on iOS, and I’m getting the native Android version ready for Google Play. The idea is to make it easy to follow an event from your phone: live boards, rounds and standings, game replay, and live game previews right on the Home screen. I’d…
 
-### [I built an NBA blind-auction draft game as a solo side project — courtsidegm.com](https://www.reddit.com/r/SideProject/comments/1xp2q15/i_built_an_nba_blindauction_draft_game_as_a_solo/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:31 UTC
+### [Show HN: Roomzine – turn a photo of your room into a redesign magazine](https://roomzine.com/)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 03:30 UTC
 
-Wanted to learn the full build-deploy-ship cycle so I built a browser game. You get a $25 budget, 10 random NBA players, and blind-bid against the CPU (or other players) to build a 5-man lineup that plays a 7-game series. Tech stack: Next.js 14, TypeScript, Tailwind, Supabase (auth + Postgres), Vercel. Used Claude Code for most of the development. Features…
+Article URL: https://roomzine.com/ Comments URL: https://news.ycombinator.com/item?id=50401374 Points: 1 # Comments: 0
 
-### [I built a Safari extension for the iPhone Duo's outer screen, where Safari leaves 84pt of every page unused](https://www.reddit.com/r/SideProject/comments/1xp2otr/i_built_a_safari_extension_for_the_iphone_duos/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:30 UTC
+### [Deceptive Multi-Year Billing Fraud – Completely Documented!](https://www.reddit.com/r/smallbusiness/comments/1xpwc2n/deceptive_multiyear_billing_fraud_completely/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:28 UTC
 
-Disclosure: this is my app. Apple's first foldable shipped two weeks ago, and Safari on its outer screen has an odd gap: an 84pt control strip on the right, with every page stopping short of it (382 of 466 points). Apple says a fix is under investigation, with no date. So I made Brim, a Safari extension that widens pages under the strip. The harder part was…
+I cancelled my Compliance Filings over the phone in 2025 after receiving their renewal notice. I was assured the auto-renewal was removed, and their official cancellation email explicitly admits: "Your request to cancel Compliance Filings subscription has been processed. You can still use your service until Wednesday, 05 November 2025." Instead of honoring…
 
-### [Northern NJ Ice Cream Shop](https://www.reddit.com/r/smallbusiness/comments/1xp2n31/northern_nj_ice_cream_shop/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:27 UTC
+### [I built a site that matches you with games & gamers who share your taste, based on how you actually rate games](https://www.reddit.com/r/SideProject/comments/1xpw8ny/i_built_a_site_that_matches_you_with_games_gamers/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:23 UTC
 
-Hi everyone! I’m exploring the possibility of opening a small, independent ice cream/gelato shop in Northern New Jersey and would love some advice from people with experience in the industry or small business ownership. I’m very early in the research stage and trying to understand the feasibility of this type of business before making any major commitments.…
+Hey all. I’ve been building LFGG (Looking For Good Games) solo for a while: https://lfgg.info I got tired of my gaming life being spread across half a dozen apps: one to log games, one for news, a Discord for finding people, Reddit for recommendations. The easiest way to describe what I built is Letterboxd, Reddit and your old MySpace profile rolled into…
 
-### [Show HN: NextGen WAF – Native Prolog Server and Rule System](https://prologwaf.site/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 03:24 UTC
+### [[ Removed by Reddit ]](https://www.reddit.com/r/SideProject/comments/1xpw816/removed_by_reddit/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:22 UTC
 
-Article URL: https://prologwaf.site/ Comments URL: https://news.ycombinator.com/item?id=50387783 Points: 2 # Comments: 0
+[ Removed by Reddit on account of violating the content policy . ] submitted by /u/SuccessfulAnalysis56 to r/SideProject [link] [comments]
 
-### [Claude Manager - every Claude Code project, session and profile in one window (free, Mac + Windows)](https://www.reddit.com/r/SideProject/comments/1xp2k1x/claude_manager_every_claude_code_project_session/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:23 UTC
+### [I made a daily puzzle where you get one sentence, 5 tests, and ONE guess at the hidden rule](https://www.reddit.com/r/SideProject/comments/1xpw6en/i_made_a_daily_puzzle_where_you_get_one_sentence/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:20 UTC
 
-This started as a fix for our own problem. Me and two colleagues at work use Claude Code all day, across lots of projects and a couple of accounts, and we kept ending up with a pile of terminals and no idea which one had the session we needed. So we built Claude Manager , a small desktop app that puts all of it in one window. The video above is the quick…
+Every day there’s a secret rule about sentences. You’re shown one sentence that follows it. Then you get 5 tests: type any sentence you like and it instantly tells you ✓ follows or ✗ breaks the rule. Then you get one guess, typed in your own words. Get it wrong and the game’s over. The rules are about letters, words and their lengths, not meaning, so the…
 
-### [I built a job-postings feed that reads Greenhouse/Lever/Ashby APIs directly and tells you which jobs are new each day](https://www.reddit.com/r/SideProject/comments/1xp2jhn/i_built_a_jobpostings_feed_that_reads/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:22 UTC
+### [Anyone else feel like most sales advice is useless if you sell to small local businesses?](https://www.reddit.com/r/smallbusiness/comments/1xpw51x/anyone_else_feel_like_most_sales_advice_is/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:18 UTC
 
-Side project from the last few weeks. A lot of companies host their careers page on Greenhouse, Lever, Ashby, Workable or SmartRecruiters, and all five have public, unauthenticated job-board APIs. They just all look different. So I wrapped them in one Apify actor: - input is a company slug, a board URL, or just a domain (it looks at the careers page to find…
+Been doing outbound to small/ local businesses for a while and the more sales content I read the more I feel like almost none of it is written for us. Every framework, every best practice, every guru thread assumes you are selling to a company with a budget cycle and a LinkedIn presence. It is one owner who is slammed and has been pitched by a hundred…
 
-### [I spent months building my own chat app because I was sick of paywalls on uploads and profile stuff](https://www.reddit.com/r/SideProject/comments/1xp2anh/i_spent_months_building_my_own_chat_app_because_i/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:10 UTC
+### [Trying to fire my medical billing company but they are resisting.](https://www.reddit.com/r/smallbusiness/comments/1xpvwcr/trying_to_fire_my_medical_billing_company_but/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 03:05 UTC
 
-Hey, I’m a solo dev and I’ve been building One , a desktop chat app for friend groups and communities. What it does right now: free voice channels everywhere 100 MB uploads (videos play inline) animated GIF profile pictures and banners, free for everyone shows what game you’re playing small, fast app that updates itself No paid tier. Everyone gets…
+I've tried to fire a medical billing company I contracted over text, over email, over the phone MULTIPLE TIMES. They keep saying they need a reason even though I gave them one and I don't owe them anything else along with a bunch of excuses. I am direct and serious as a I can be but they just keep running me around. They try to corner me saying ill have to…
 
-### [Selling my business](https://www.reddit.com/r/smallbusiness/comments/1xp24q1/selling_my_business/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 03:01 UTC
+### [Show HN: Combining Bursts of Images](https://github.com/skittleson/burst-superres)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 03:00 UTC
 
-Evening everyone!!! Anyone on here have any tips on selling a small business? I already have a broker but I am trying to get more people interested in purchasing. Thank you!!! submitted by /u/Rockweilder_187 to r/smallbusiness [link] [comments]
+An approach of taking many photos to enhance one final image is a technique called "stacking". Stacking alone doesn't account for everything so this is a take that helps get better alignment of images, allows comparisons, and drop bad images that dont match. Its not super resolution but it feels like when you look at it. it reduces the noise and makes it…
 
-### [I got tired of paying for OpenAI API while having Copilot Enterprise at work/school, so I built a local bridge to turn it into an OpenAI-compatible API & FastMCP server (100% Free, Apache-2.0, Open Source)](https://www.reddit.com/r/SideProject/comments/1xp22zd/i_got_tired_of_paying_for_openai_api_while_having/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:59 UTC
+### [Show HN: Krea 2 Showcase](https://puzza.pages.dev)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 02:58 UTC
 
-Hi r/SideProject ! Like many developers, I have access to Microsoft 365 Copilot (Enterprise / Education) provided by my organization, yet I found myself continuously paying for OpenAI API credits just to use coding assistants like Cursor, Continue.dev, Cline, and Claude Desktop. To bridge this gap without running costly cloud proxies, I spent the last few…
+Article URL: https://puzza.pages.dev Comments URL: https://news.ycombinator.com/item?id=50401209 Points: 1 # Comments: 0
 
-### [[ Removed by Reddit ]](https://www.reddit.com/r/SideProject/comments/1xp22qr/removed_by_reddit/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:59 UTC
+### [I spent way too long making a clock where ants carry biscuits](https://www.reddit.com/r/SideProject/comments/1xpvl57/i_spent_way_too_long_making_a_clock_where_ants/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:49 UTC
 
-[ Removed by Reddit on account of violating the content policy . ] submitted by /u/ActualPosition5547 to r/SideProject [link] [comments]
+okay so this is kind of a weird one I got tired of every clock app looking the same and shoving ads in your face, so I started building little worlds that just… show the time. this clip is the ants one. they drag biscuits and leaves around and slowly form the digits. there's also fish, a parking lot of cars, water calligraphy, a wall of tiny analog clocks,…
 
-### [I added a mini-game to my sobriety app](https://www.reddit.com/r/SideProject/comments/1xp20k7/i_added_a_minigame_to_my_sobriety_app/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:56 UTC
+### [A tiny room, diary and focus timer on my Windows desktop — Lofi Cozy Room's Mini Mode](https://www.reddit.com/r/SideProject/comments/1xpvicf/a_tiny_room_diary_and_focus_timer_on_my_windows/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:45 UTC
 
-My app helps people reduce alcohol usage or quit completely. It generates a personal plan that steps down to zero, or whatever level you're comfortable with, and lets you track your drinks and has tools to help you in your way. A few versions ago I added an "I'm about to relapse" button. The idea is: you're having a bad day and really feel like drinking.…
+I'm the developer of Lofi Cozy Room, a released Windows desktop companion. Last time I shared the room editor here; this earlier recording shows another existing feature, Mini Mode. The 17-second clip shows the small room on the desktop, then the diary, to-do list and focus timer opening beside it. You can decorate the room, customize the character and let…
 
-### [Show HN: Firefox extension to upload text to rentry quickly](https://addons.mozilla.org/en-US/firefox/addon/rear-entry/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 02:51 UTC
+### [I gave AI a domain name and told it to be profitable](https://www.reddit.com/r/SideProject/comments/1xpvh5x/i_gave_ai_a_domain_name_and_told_it_to_be/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:43 UTC
 
-Article URL: https://addons.mozilla.org/en-US/firefox/addon/rear-entry/ Comments URL: https://news.ycombinator.com/item?id=50387558 Points: 2 # Comments: 3
+I posted about this a while back when I had first cut my little AI bots loose on a domain name, www.nothinghappens.click and some people were pretty amused by it (as am I still). Anyways, the story is pretty simple, I was bored, had a few days off of work finally and decided I'd through .99 cents at a domain name and give it to my little AI bots since I…
 
-### [I built CHEF to stop fighting 10-page recipe blogs and ads while cooking. Giving away 25 Pro codes to the community!](https://www.reddit.com/r/SideProject/comments/1xp1wrt/i_built_chef_to_stop_fighting_10page_recipe_blogs/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:50 UTC
+### [We built an alternative to Lovable/Base44. Looking for people to test it and give feedback](https://www.reddit.com/r/SideProject/comments/1xpvgm0/we_built_an_alternative_to_lovablebase44_looking/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:43 UTC
 
-Hey everyone, I'm a solo indie dev and just shipped v1.1 of CHEF to the iOS App Store. I built it because cooking a weeknight dinner from an online recipe had become a nightmare of popup ads, auto-playing video players, and 2,000-word essays before the ingredients list. CHEF handles: • Stripping recipe links and videos down to clean, step-by-step…
+Hey everyone, A couple of friends and I have been working on Zocri.com , an AI app builder where you can create apps and websites using prompts. We've been testing it ourselves for a while, but I think we've reached the point where we're too familiar with the product to notice some of its problems. A few things we've focused on: - Better-looking initial…
 
-### [I built a quiet touch-typing course for adults who still look at the keyboard](https://www.reddit.com/r/SideProject/comments/1xp1vm0/i_built_a_quiet_touchtyping_course_for_adults_who/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:49 UTC
+### [Wrappie — an Advent calendar filled with your own photos, voice notes and little surprises](https://www.reddit.com/r/SideProject/comments/1xpvait/wrappie_an_advent_calendar_filled_with_your_own/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:34 UTC
 
-Hey everyone, A couple of decades ago I used Mavis Beacon for a few months to learn how to touch type but never got taught aside from that and was fed up looking down, so I built At the Page – https://atthepage.com One short page at a time. It works out which keys you miss or hesitate on and builds the next page from the letters you've learnt so far, with…
+Most Advent calendars come filled with things someone else picked. We built one you fill yourself, for one specific person. It’s called Wrappie. Behind each of the 24 doors, you can put a photo, a voice message, a short video, a note, or a little promise like “movie night - your choice.” You send one link, and they open a new surprise each day in their…
 
-### [I built Compare Empire, a free price comparison site for Australia that reads 130+ real stores (also UK and US)](https://www.reddit.com/r/SideProject/comments/1xp1ulo/i_built_compare_empire_a_free_price_comparison/)
-**来源：** Reddit communities · **发布时间：** 2026-11-06 02:47 UTC
+### [I built WIT, a free toolkit that makes your existing AI more useful, from complete beginner to advanced power user.](https://www.reddit.com/r/SideProject/comments/1xpv7c7/i_built_wit_a_free_toolkit_that_makes_your/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:29 UTC
 
-Australia has no good general price comparison site: the big ones are pay-to-list, so the cheapest store is often not on them. I kept opening ten tabs before buying anything, so I built compareempire.com . What it does: Compares the same product across 130+ Australian stores in 32 categories (phones, TVs, laptops, PC parts, coffee machines, LEGO,…
+🚀 Try WIT for free. Simple installation: https://www.ijaspers.com/post/witburrow-starter-reference I've been building WIT (Witburrow), a free, AI-agnostic toolkit designed to make the AI you already use more organized, capable, and useful. It's not another chatbot, and you don't need to switch AI providers. The idea is simple: Give your AI some WIT. I…
 
-### [Show HN](https://reachmap.app/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 01:46 UTC
+### [Looking for young boutique owners in Los Angeles](https://www.reddit.com/r/smallbusiness/comments/1xpv79j/looking_for_young_boutique_owners_in_los_angeles/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 02:29 UTC
 
-Article URL: https://reachmap.app/ Comments URL: https://news.ycombinator.com/item?id=50387120 Points: 1 # Comments: 0
+Hey if you’re in LA and you’re a young business owner, how did you get started? Only if you sell anything that has to do with a wardrobe. Thanks. submitted by /u/rushiqapp to r/smallbusiness [link] [comments]
 
-### [Show HN: Convert recorded class lectures into PDF/eBooks](https://lecturetobook.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 00:52 UTC
+### [Show HN: I built ivyNote, a local-first Markdown notes app](https://ivynote.app/)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 02:22 UTC
 
-Article URL: https://lecturetobook.com/ Comments URL: https://news.ycombinator.com/item?id=50386766 Points: 1 # Comments: 0
+Article URL: https://ivynote.app/ Comments URL: https://news.ycombinator.com/item?id=50401039 Points: 1 # Comments: 0
 
-### [Show HN: Taskivities – where tasks follow you till they are done](https://www.taskivities.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 00:32 UTC
+### [Show HN: I built an AI photo editor powered by GPT-Image-2.6](https://getaiphotoeditor.com/)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 02:07 UTC
 
-Article URL: https://www.taskivities.com/ Comments URL: https://news.ycombinator.com/item?id=50386605 Points: 1 # Comments: 1
+Article URL: https://getaiphotoeditor.com/ Comments URL: https://news.ycombinator.com/item?id=50400968 Points: 1 # Comments: 0
 
-### [Show HN: Cabinet of Distilled Pixels](https://cjauvin.github.io/pixel-cabinet/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 00:27 UTC
+### [Canadian sellers: would you use a Canada-based print-on-demand for glass cutting boards?](https://www.reddit.com/r/EtsySellers/comments/1xpujxl/canadian_sellers_would_you_use_a_canadabased/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 01:57 UTC
 
-I got this idea from the recent "Sparks of Weight-Space Programming" post. I thought the abstracted game mechanics looked quite nice, and wanted to expand on them a bit. Comments URL: https://news.ycombinator.com/item?id=50386559 Points: 4 # Comments: 1
+I sell glass cutting boards on Etsy through Printful. Every glass board print-on-demand I can find (Printful, Printify, Printbest, Prodigi) prints in the US or UK, so shipping to Canadian customers runs $23–32 per board, and customs is possible on top. I'm considering buying sublimation gear and making them myself in Alberta, and possibly opening that up to…
 
-### [Show HN: 3-minute desk breaks based on Radio Taiso and Wordle](https://www.audioround.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 00:14 UTC
+### [Show HN: Select – AI agents that earn autonomy through verified work](https://github.com/Kirby54/Select)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 01:55 UTC
 
-Article URL: https://www.audioround.com/ Comments URL: https://news.ycombinator.com/item?id=50386457 Points: 3 # Comments: 0
+Article URL: https://github.com/Kirby54/Select Comments URL: https://news.ycombinator.com/item?id=50400882 Points: 1 # Comments: 0
 
-### [Show HN: I made a game where you have to think of answers others wouldn't give](https://downtheline.io/)
-**来源：** hnrss.org · **发布时间：** 2026-11-06 00:13 UTC
+### [Show HN: We filmed a bird-themed Iliad using mallard](https://mallard-ai.com/Rika321/Homer?tab=files&file=The_Iliad_Complete.mp4)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 01:50 UTC
 
-Basically you try to give the rarest (deepest cut) answers to prompts. You score more points the rarer the answer. And each prompt has one "golden ticket" which is basically an answer I think is funny (and it earns you a whopping 100 pts!). Yes, this is a daily game (sorry)! I'm still learning how to code well so any advice or ideas for improvements are…
+Explore how we made it: https://mallard-ai.com/Rika321/Homer Download mallard for free and help us make a bird-themed Odyssey next! Comments URL: https://news.ycombinator.com/item?id=50400854 Points: 1 # Comments: 0
 
-### [Show HN: LLMBrake – Per-customer dollar caps for OpenAI/Anthropic API calls](https://github.com/llmbrake/llmbrake)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 23:40 UTC
+### [Show HN: CLI calls spend their time starting up. I cut it by 4.5x, same output](https://github.com/anthonyGosme/speedrunner)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 01:24 UTC
 
-Article URL: https://github.com/llmbrake/llmbrake Comments URL: https://news.ycombinator.com/item?id=50386174 Points: 2 # Comments: 0
+Article URL: https://github.com/anthonyGosme/speedrunner Comments URL: https://news.ycombinator.com/item?id=50400711 Points: 2 # Comments: 0
 
-### [Show HN: Lab Canary – Rating AI labs on whether their staff can speak up](https://labcanary.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 23:31 UTC
+### [Updated Image Requirements (Again) - Cropping and Resizing Now Okay!](https://www.reddit.com/r/EtsySellers/comments/1xptwvs/updated_image_requirements_again_cropping_and/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 01:24 UTC
 
-Article URL: https://labcanary.com/ Comments URL: https://news.ycombinator.com/item?id=50386089 Points: 3 # Comments: 0
+Etsy updated the new requirements again, confirming that you do need an unedited image, but with new guidance around what that means. I had the update on my dashboard and it's on the forums ; I'll quote it below, but in short: yes, one needs to be unedited still, but you can crop, add watermarks, and resize. one per listing, doesn't have to be first might…
 
-### [Show HN: Stenvakt, a server hardening and patching tool](https://stenvakt.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 23:26 UTC
+### [is joining the cyber specials worth it?](https://www.reddit.com/r/EtsySellers/comments/1xpta67/is_joining_the_cyber_specials_worth_it/)
+**来源：** Reddit communities · **发布时间：** 2026-11-07 00:54 UTC
 
-I run a couple of VPSes, some are for clients and some for my own internal projects. Now the problem is when a big vulnerability/exploit happens in a service or an app i use, I need to lose about a day of work to patch all of the servers, and it's always a mess, so I built stenvakt. Stenvakt is a mac app that connects to your servers over SSH, it's used for…
+i usually run a black friday sale but i've never done it through etsys cyber specials is it worth doing it that way? or should i just stick to my own black friday sales. submitted by /u/Ok-Dragonfruit-6521 to r/EtsySellers [link] [comments]
 
-### [Show HN: HackerRepos – HackerTube for repos mentioned on HN](https://HackerRepos.fyi/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 23:18 UTC
+### [Show HN: SlopSlot – a slot machine inside Claude Code](https://github.com/gajus/slopslot)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 00:48 UTC
 
-Karpathy posted hackertube.org 5 days ago, and mentioned that it took him 2 hours to build. A day after another fellow posted hackerbooks.org https://news.ycombinator.com/item?id=50326821 , and made it to the top of HN. Some hours after someone else made it to the top of HN with the same for wikis: https://wikihack.netlify.app/ I found particularly…
+Because that's how it feels like. claude plugin install slopslot --marketplace gajus/slopslot Comments URL: https://news.ycombinator.com/item?id=50400511 Points: 1 # Comments: 0
 
-### [Show HN: Open-world text adventure played through AI agents](https://eremoterra.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 23:04 UTC
+### [Show HN: Goethe – The infrastructure for self-hosted AI](https://github.com/meshapplied/Goethe)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 00:26 UTC
 
-Hey HN, I am building Eremoterra, this experiment of trying to make a game out of an MCP (to learn MCP stuff, but also had a lot fun designing the game). You play in your own agent. The server returns a fact sheet for the place you are. The world is like real Earth, but empty (until the players start to arrive) and only the natural wold (as humanity never…
+Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely Comments URL:…
 
-### [Show HN: IndiePilot – find Reddit threads where people ask for what you sell](https://indiepilot.app)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 22:26 UTC
+### [Show HN: NKTgAI–Analyze the text first, generate second (and why that's not RAG)](https://nktg.org/)
+**来源：** hnrss.org · **发布时间：** 2026-11-07 00:13 UTC
 
-Article URL: https://indiepilot.app Comments URL: https://news.ycombinator.com/item?id=50385371 Points: 1 # Comments: 0
+Article URL: https://nktg.org/ Comments URL: https://news.ycombinator.com/item?id=50400306 Points: 1 # Comments: 0
 
-### [Show HN: Simulating three LA wildfires in the browser with WebGPU](https://mattduran.dev/firedemo/fire/woolsey-2018)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 22:00 UTC
+### [Show HN: Cinnamon – a household AI agent with shared context and memories](https://getcinnamon.ai/)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 23:44 UTC
 
-Article URL: https://mattduran.dev/firedemo/fire/woolsey-2018 Comments URL: https://news.ycombinator.com/item?id=50385092 Points: 3 # Comments: 0
+Article URL: https://getcinnamon.ai/ Comments URL: https://news.ycombinator.com/item?id=50400056 Points: 1 # Comments: 0
 
-### [Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens](https://makermaker.ai/breakthroughs/inference/simulation/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 22:00 UTC
+### [Show HN: Vitekube – Vitest on real Kubernetes clusters](https://github.com/vitekube/vitekube)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 23:22 UTC
 
-Article URL: https://makermaker.ai/breakthroughs/inference/simulation/ Comments URL: https://news.ycombinator.com/item?id=50385087 Points: 8 # Comments: 1
+I got tired of trying to run k8s integration tests with spaghetti mess of docker compose files + orchestration scripts. So I rebuilt my custom stuff as plain Vitest extension. If you know how to use Vitest you already know most of it. Comments URL: https://news.ycombinator.com/item?id=50399875 Points: 1 # Comments: 0
 
-### [Show HN: Bisimia – A TLA+ environment that runs in the browser](https://bisimia.com)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 21:54 UTC
+### [Show HN: Trout: MIRC for the Terminal](https://github.com/MaxRenaud/trout)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 23:21 UTC
 
-Bisimia is a browser-based local-first environment to write and model-check TLA+ specs. I started working on this in January wanting to have a better environment to write TLA+ specs and model check them. I started out with running TLC via CheerpJ https://cheerpj.com/ (which I later on found out to be the approach taken by https://learning.tlapl.us/ ),…
+Article URL: https://github.com/MaxRenaud/trout Comments URL: https://news.ycombinator.com/item?id=50399866 Points: 1 # Comments: 0
 
-### [Show HN: That is true daily news inspired satiric Frog and Toad comics](https://that-is-true.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 21:37 UTC
+### [Show HN: Handbrake – a free, private driving log, no trackers, no ads](https://apps.apple.com/us/app/handbrake-driving-log/id6822426461)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 23:02 UTC
 
-Article URL: https://that-is-true.com/ Comments URL: https://news.ycombinator.com/item?id=50384797 Points: 1 # Comments: 1
+Hi, I build this inspired my my oldest starting to drive. This does not have ads, trackers or analytics, and all data is private and belongs to you in your iCloud account. Hope someone can find a good use for it. Besides learning, it's an excellent driving log with accelerations, brakes and maps. Comments URL: https://news.ycombinator.com/item?id=50399684…
 
-### [Show HN: Turn JMH Benchmarks Results into Interactive Charts](https://github.com/mlangc/jmh-visualizer)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 21:34 UTC
+### [Show HN: Budget Friendly City Discovery](https://geesling.ca/)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 23:02 UTC
 
-Article URL: https://github.com/mlangc/jmh-visualizer Comments URL: https://news.ycombinator.com/item?id=50384760 Points: 1 # Comments: 0
+Article URL: https://geesling.ca/ Comments URL: https://news.ycombinator.com/item?id=50399682 Points: 1 # Comments: 1
 
-### [Show HN: I built a fast Java linter in Rust](https://github.com/rsmb7z/javaid)
-**来源：** hnrss.org · **发布时间：** 2026-11-05 21:31 UTC
+### [Show HN: I asked HN about AI agentic setups, here are 750 of the comments mapped](https://news.ycombinator.com/item?id=50399637)
+**来源：** hnrss.org · **发布时间：** 2026-11-06 22:58 UTC
 
-Try out my java linter tool which is 4-6x faster and 1/10th of memory efficient, with zero-difference result on Guava and Spring. Comments URL: https://news.ycombinator.com/item?id=50384727 Points: 2 # Comments: 0
+A few days back I posted here asking about how people were using AI / doing agentic coding (see: https://news.ycombinator.com/item?id=50366117 ). Needless to say, I was overwhelmed by the response! The one challenge I found, however, was that the comments were almost impossible to parse: some users answered my questions in the format I provided, others…
 
-### [CC Auto Review](https://www.producthunt.com/products/cc-auto-review)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-05 04:54 UTC
+### [Letterpress-1](https://www.producthunt.com/products/letterpress-1)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-06 07:15 UTC
 
-macOS app that reviews GitHub PRs w/ your local Claude Code Discussion | Link
+One script install to automate growth for your website Discussion | Link
 
-### [Nemotron 3.5 Transcribe](https://www.producthunt.com/products/nvidia)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-05 04:51 UTC
+### [crystl](https://www.producthunt.com/products/crystl-multitasking-terminal)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-06 02:44 UTC
 
-Intelligent Transcription with a Speech LLM Discussion | Link
+multitasking terminal for AI coding agents, built for macOS Discussion | Link
 
-### [TextKit](https://www.producthunt.com/products/textkit-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-05 00:10 UTC
+### [Cursor Craft](https://www.producthunt.com/products/cursor-craft)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-06 01:53 UTC
 
-Send + receive texts in the US and Canada with a simple API Discussion | Link
+Custom cursors for Mac Discussion | Link
+
+### [Kodivo](https://www.producthunt.com/products/kodivo)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-06 00:07 UTC
+
+Learn coding with AI and PHP through swipeable cards Discussion | Link
+
+### [Cloptima](https://www.producthunt.com/products/cloptima)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 23:40 UTC
+
+AI Gateway, Guardrails & LLM FinOps Discussion | Link
+
+### [MacDupl](https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 22:47 UTC
+
+Run every account in its own app Discussion | Link
+
+### [refern.](https://www.producthunt.com/products/refern)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 22:29 UTC
+
+Every visual reference you work from, in one place. Discussion | Link
+
+### [AudioCentral](https://www.producthunt.com/products/audiocentral)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 21:36 UTC
+
+Control every app’s audio from your Mac’s menu bar. Discussion | Link
+
+### [Codiclens](https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 21:12 UTC
+
+Local AI powerd Mac launcher and file finder Discussion | Link
+
+### [Plainmail](https://www.producthunt.com/products/plainmail)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 18:55 UTC
+
+Real email on every domain you own, for $5 a month flat Discussion | Link
+
+### [Shipnoted](https://www.producthunt.com/products/shipnoted)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 18:10 UTC
+
+Changelog + feedback board for closing the loop on your git Discussion | Link
+
+### [Kivo](https://www.producthunt.com/products/kivo-4)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 17:51 UTC
+
+Free on device dictation for any Mac app and AI agent Discussion | Link
+
+### [BuildFerry](https://www.producthunt.com/products/buildferry)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 17:46 UTC
+
+Install iOS test builds on any iPhone with one link Discussion | Link
+
+### [Wisp](https://www.producthunt.com/products/wisp-9)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 16:28 UTC
+
+Wisp is a little AI fairy who lives on your desktop Discussion | Link
+
+### [Translucent AI](https://www.producthunt.com/products/translucent-ai)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 14:57 UTC
+
+Test infrastructure for hardware teams Discussion | Link
+
+### [Openroster](https://www.producthunt.com/products/openroster)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 14:19 UTC
+
+Which "Open" companies are actually open source Discussion | Link
+
+### [Rankfender v3.0](https://www.producthunt.com/products/rankfender)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 14:05 UTC
+
+The SEO/GEO operating system, built for people and AI agents Discussion | Link
+
+### [PostMyPace](https://www.producthunt.com/products/postmypace)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 13:26 UTC
+
+Turn your run into a ready-to-post Instagram Story or Reel Discussion | Link
+
+### [OpenVisio](https://www.producthunt.com/products/openvisio)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 10:54 UTC
+
+One workspace for your team and its AI coding agents Discussion | Link
+
+### [pwned.coffee](https://www.producthunt.com/products/pwned-coffee)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 10:27 UTC
+
+A live board of security flaws Discussion | Link
+
+### [TraceX](https://www.producthunt.com/products/tracex)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 08:53 UTC
+
+The AI engineer for your production issues Discussion | Link
+
+### [Thunderduck Inc.](https://www.producthunt.com/products/thunderduck-inc)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 05:38 UTC
+
+Modular Data Warehouse for Agentic Data Teams Discussion | Link
+
+### [Mmory](https://www.producthunt.com/products/mmory)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 03:06 UTC
+
+Mmory is a private voice memory app for iPhone Discussion | Link
+
+### [Pressure](https://www.producthunt.com/products/pressure)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-05 01:29 UTC
+
+Need a second opinion? Have two agents debate your topic Discussion | Link
 
 ### [独立开发变现周刊（第164期） : Directify达5万美元年收入的独立SaaS](https://www.ezindie.com/weekly/issue-164)
 **来源：** www.ezindie.com · **发布时间：** 2026-11-05 00:00 UTC
 
 分享独立开发产品变现相关有价值的内容，每周五发布。Directify达5万美元年收入的独立SaaS
 
-### [Scrollsnacks](https://www.producthunt.com/products/scrollsnacks)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 21:46 UTC
+### [OrgSync](https://www.producthunt.com/products/orgsync-2)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 15:12 UTC
 
-Launch videos, broken down second by second Discussion | Link
+Company brain for Claude, ChatGPT & Codex teams Discussion | Link
 
-### [FounderMail](https://www.producthunt.com/products/foundermail-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 19:46 UTC
+### [Chronos DB](https://www.producthunt.com/products/chronos-db)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 14:55 UTC
 
-Mail for you and your agents, on your Cloudflare domain Discussion | Link
+The database for the autonomous AI era. Discussion | Link
 
-### [Polylane for Google Cloud](https://www.producthunt.com/products/polylane)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 18:54 UTC
+### [Datastripes Data Stories](https://www.producthunt.com/products/datastripes)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 13:49 UTC
 
-An AI on-call engineer for your Google Cloud apps Discussion | Link
+Turn any spreadsheet into a data story in seconds Discussion | Link
 
-### [ChatNest](https://www.producthunt.com/products/chatnest-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 08:53 UTC
+### [Pauta](https://www.producthunt.com/products/pauta)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 12:35 UTC
 
-Folders and a prompt library for your AI chats Discussion | Link
+Your private memory for every conversation Discussion | Link
 
-### [SafetyClip](https://www.producthunt.com/products/safetyclip)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 08:40 UTC
+### [Koltrix](https://www.producthunt.com/products/koltrix)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 08:18 UTC
 
-A clipboard manager for Mac that keeps secrets secret Discussion | Link
+Your whole email stack, run by agents you control. Discussion | Link
 
-### [Tencent Hy4](https://www.producthunt.com/products/hunyuan-a13b)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 08:07 UTC
+### [Enhanced for Todoist](https://www.producthunt.com/products/enhanced-for-todoist)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 07:55 UTC
 
-Tencent’s flagship model learns to see and use a computer Discussion | Link
+More ways to organise, plan and focus with Todoist Discussion | Link
 
-### [AI Employees by Easy-Peasy.AI](https://www.producthunt.com/products/easy-peasy-ai)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 06:19 UTC
+### [Textwhisk](https://www.producthunt.com/products/textwhisk)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-04 07:13 UTC
 
-Hire an AI team that splits the work and asks before sending Discussion | Link
+Turn selected text into quick actions on your Mac Discussion | Link
 
-### [Bambu Lab H3C](https://www.producthunt.com/products/bambu-lab-h3c)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 02:19 UTC
+### [axel.md](https://www.producthunt.com/products/axel-3)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-03 22:39 UTC
 
-Print multi-material projects faster and easier Discussion | Link
+Agent orchestration in the terminal, designed for Rex Discussion | Link
 
-### [Fedora Linux 45](https://www.producthunt.com/products/fedora-linux-45)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-04 01:04 UTC
+### [Any Video to Text](https://www.producthunt.com/products/any-video-to-text)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-03 19:34 UTC
 
-GNOME 51: Wayland fixes, oo7 keys, and modern toolchains. Discussion | Link
+Paste a video link, get the transcript in seconds Discussion | Link
 
-### [TellPip](https://www.producthunt.com/products/tellpip)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 23:13 UTC
+### [Alysis Code](https://www.producthunt.com/products/alysis-code)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-03 12:47 UTC
 
-A little bird that whispers what to say in your calls Discussion | Link
-
-### [Freeport Markets](https://www.producthunt.com/products/freeport-markets)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 21:56 UTC
-
-Our proprietary AI finds the top onchain wallets to copy Discussion | Link
-
-### [Cosyra](https://www.producthunt.com/products/cosyra)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 20:20 UTC
-
-Launch and steer agents on your machines from your phone Discussion | Link
-
-### [PasteGuard for Mac](https://www.producthunt.com/products/pasteguard-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 18:42 UTC
-
-Keep secrets and personal data out of AI chats Discussion | Link
-
-### [TrackEdge](https://www.producthunt.com/products/trackedge-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 16:56 UTC
-
-Hidden AI buttons on your MacBook’s trackpad Discussion | Link
-
-### [DearCameo](https://www.producthunt.com/products/dearcameo)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 16:47 UTC
-
-Social network where only the dead have accounts — DearMate Discussion | Link
-
-### [backlane](https://www.producthunt.com/products/backlane-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 16:06 UTC
-
-Manage marketplaces in ChatGPT and Claude via MCP Discussion | Link
-
-### [Deployed Yet?](https://www.producthunt.com/products/deployed-yet)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 16:01 UTC
-
-See if your Vercel, Cloudflare and GitHub deploys shipped Discussion | Link
-
-### [Sendu](https://www.producthunt.com/products/sendu)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 14:20 UTC
-
-Drop files easily across your local network Discussion | Link
-
-### [Rerun](https://www.producthunt.com/products/rerun-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 13:00 UTC
-
-Turn your AI subscriptions into a team of coworkers Discussion | Link
-
-### [Seamcult](https://www.producthunt.com/products/seamcult)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 11:42 UTC
-
-A pattern design tool for the LLM era ('paper' for patterns) Discussion | Link
-
-### [Sonari](https://www.producthunt.com/products/sonari)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 11:19 UTC
-
-A hand-gesture instrument and MIDI controller for Mac Discussion | Link
-
-### [Resum](https://www.producthunt.com/products/resum)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 09:29 UTC
-
-API and SDK for live conversations Discussion | Link
-
-### [Virelo](https://www.producthunt.com/products/virelo)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 09:27 UTC
-
-Netflix-like video library with Shorts. Web or self-hosted. Discussion | Link
-
-### [Country Filter for X](https://www.producthunt.com/products/country-filter-for-x-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 08:59 UTC
-
-Hide posts from chosen countries in your X For You feed Discussion | Link
-
-### [Hira](https://www.producthunt.com/products/hira)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 07:57 UTC
-
-Your free personal agent for job search Discussion | Link
-
-### [Pinku](https://www.producthunt.com/products/pinku)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 07:52 UTC
-
-Private AI chat that runs offline on your iPhone and Mac Discussion | Link
-
-### [Stitch.ai](https://www.producthunt.com/products/stitch-ai)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 06:04 UTC
-
-Your AI workspace for mail, calendar, notes, tasks and more Discussion | Link
-
-### [Tao Browser](https://www.producthunt.com/products/tao-browser)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-03 04:35 UTC
-
-Private browser with a separate login for every company Discussion | Link
-
-### [Vibeconferencing](https://www.producthunt.com/products/vibeconferencing)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-02 22:49 UTC
-
-Your Claude Code session, in your Meet, Zoom or Teams call Discussion | Link
-
-### [Floot Payments](https://www.producthunt.com/products/floot)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-02 21:05 UTC
-
-Take payments in apps you build in ChatGPT and Claude Discussion | Link
-
-### [Glasshand](https://www.producthunt.com/products/glasshand)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-02 20:28 UTC
-
-Give your agent a real iPhone and Mac Discussion | Link
+Open-source AI coding agent Discussion | Link
 
 ### [662: I Hate Dropshipping, But This Guy Made $1M His First Year. Here’s How](https://mywifequitherjob.com/episode662/)
 **来源：** mywifequitherjob.com · **发布时间：** 2026-11-02 17:55 UTC
 
 High ticket dropshipping done right: Jayden Clark sold pergolas from domestic brands, hit $1M in year one, and sold the store for $700K. Here is his playbook. The post 662: I Hate Dropshipping, But This Guy Made $1M His First Year. Here’s How appeared first on MyWifeQuitHerJob.com .
 
-### [Living Brain](https://www.producthunt.com/products/chatandbuild)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-02 15:07 UTC
+### [Releasebeam](https://www.producthunt.com/products/releasebeam)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-02 14:25 UTC
 
-Interoperable, efficient memory layer for agentic AI Discussion | Link
+Release infrastructure for developers Discussion | Link
 
-### [Clocknext](https://www.producthunt.com/products/clocknext)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-02 11:41 UTC
+### [SafeGrd](https://www.producthunt.com/products/safegrd)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-02 11:51 UTC
 
-Pricing and Billing Infrastructure for AI Agents Discussion | Link
+Safae database backups that AI can restore but not delete Discussion | Link
 
-### [KREV AI](https://www.producthunt.com/products/krev)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-01 22:23 UTC
+### [EdgeBar](https://www.producthunt.com/products/edgebar)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-02 11:39 UTC
 
-An AI team that runs your ecommerce brand Discussion | Link
+Control your Mac’s volume and brightness from the trackpad Discussion | Link
 
-### [Maritime](https://www.producthunt.com/products/maritime)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-01 19:24 UTC
+### [Wonder Dev View](https://www.producthunt.com/products/wonder-dev-view)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-02 03:47 UTC
 
-Cloud computers for any AI agent, customized your way Discussion | Link
+Run many Claude Code and Codex agents in parallel Discussion | Link
 
-### [Nock](https://www.producthunt.com/products/nock-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-01 16:46 UTC
+### [LiveShortly](https://www.producthunt.com/products/liveshortly)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-01 09:55 UTC
 
-A notch for Windows, in 1 MB of Rust Discussion | Link
+Watch, steer, share and approve your coding agent, live Discussion | Link
 
-### [Pushary for Teams](https://www.producthunt.com/products/pushary)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-01 16:09 UTC
+### [Winq](https://www.producthunt.com/products/winq)
+**来源：** www.producthunt.com · **发布时间：** 2026-10-31 20:14 UTC
 
-See who said yes to your team’s AI agents Discussion | Link
-
-### [Paws](https://www.producthunt.com/products/paws)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-01 15:06 UTC
-
-Meet strangers through their cats, behind frosted glass Discussion | Link
-
-### [Keel](https://www.producthunt.com/products/keel-7)
-**来源：** www.producthunt.com · **发布时间：** 2026-10-31 20:16 UTC
-
-A native macOS client for Redis, Valkey and Dragonfly Discussion | Link
-
-### [MCPCore](https://www.producthunt.com/products/mcpcore)
-**来源：** www.producthunt.com · **发布时间：** 2026-10-31 19:36 UTC
-
-Build and host MCP servers with no-code workflows Discussion | Link
+Focus on a window or display you're looking at Discussion | Link
