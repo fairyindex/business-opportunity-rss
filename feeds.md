@@ -1,6 +1,6 @@
 # RSS 新内容汇总
 
-更新时间：2026-11-21 05:18 UTC · 收录最近 7 天 · 66 条
+更新时间：2026-11-22 04:43 UTC · 收录最近 7 天 · 64 条
 
 > 这是 RSS 发现清单。发布日期来自订阅源；摘要可能不完整，阅读时请打开原始链接核实。
 
@@ -12,110 +12,130 @@
 | mywifequitherjob.com | 5 | 正常 |
 | www.ezindie.com | 1 | 正常 |
 | hnrss.org | 20 | 正常 |
-| www.producthunt.com | 40 | 正常 |
+| www.producthunt.com | 38 | 正常 |
 | Reddit communities | 0 | 读取失败：HTTP Error 404: Not Found |
 
 ## 最新内容
 
-### [Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V](https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 04:17 UTC
+### [Show HN: GitHub Plays Linux](https://github.com/seg6)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 03:37 UTC
 
-Article URL: https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md Comments URL: https://news.ycombinator.com/item?id=50585893 Points: 1 # Comments: 0
+A few years ago, my GitHub profile README was more or less a livestream of my personal projects since I liked the idea of working in the open. It essentially embedded an image served from a small VPS with caching disabled, and my machine kept uploading screenshots of the workspace I used for those projects. So visitors saw whatever I was building at that…
 
-### [Show HN: Factuio – A factory TUI game written in Rust](https://github.com/ja7er/factuio)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 04:15 UTC
+### [Show HN: System 1.5 Model – Inkling-2-Mini Decision](https://huggingface.co/eltokh7/inkling-2-mini-decision)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 03:27 UTC
 
-https://factuio.com/ Comments URL: https://news.ycombinator.com/item?id=50585876 Points: 1 # Comments: 0
+Article URL: https://huggingface.co/eltokh7/inkling-2-mini-decision Comments URL: https://news.ycombinator.com/item?id=50595931 Points: 3 # Comments: 0
 
-### [Show HN: CLI for agents to download movie clips from dialogues](https://github.com/robinroy03/scene-finder)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 04:09 UTC
+### [Show HN: Hikari.ImGui, a pure C# re-implementation of Dear ImGui](https://github.com/LeastActionTech/Hikari.ImGui)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 03:17 UTC
 
-Article URL: https://github.com/robinroy03/scene-finder Comments URL: https://news.ycombinator.com/item?id=50585848 Points: 1 # Comments: 3
+A pure, standalone C# re-implementation of the much-beloved and widely used immediate-mode GUI for 3D applications, Dear ImGui, targeting version v1.93.0-docking with zero native dependencies. Please feel free to use for your projects. Also available as a nuget package. Comments URL: https://news.ycombinator.com/item?id=50595885 Points: 2 # Comments: 0
 
-### [Show HN: Askingprice.io – guess the price of 7 marketplace listings each day](https://askingprice.io)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 03:35 UTC
+### [Show HN: A modern take on the Go language](https://github.com/telgatech/gpp)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 03:09 UTC
 
-Hey HN! I just released askingprice.io, a daily game that has you guessing the asking price of 7 marketplace items. Each of the items is curated by me from random places around the world. I love picking ones that are funny, interesting and weird. You can use the listing images, title, and description to inform your guess. You'll need to answer in the same…
+Targets Go to use the toolchain and the package system you already know and love Comments URL: https://news.ycombinator.com/item?id=50595828 Points: 2 # Comments: 0
 
-### [Show HN: Tab – a browser engine from scratch in Rust, with a demo to install](https://gettab.dev/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 03:24 UTC
+### [Show HN: Lifetime Black Friday Deals (Mega List)](https://www.blackfridaydeals.directory/black-friday-lifetime-deals)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 02:47 UTC
 
-Article URL: https://gettab.dev/ Comments URL: https://news.ycombinator.com/item?id=50585601 Points: 2 # Comments: 0
+Article URL: https://www.blackfridaydeals.directory/black-friday-lifetime-deals Comments URL: https://news.ycombinator.com/item?id=50595724 Points: 2 # Comments: 0
 
-### [Show HN: MuGlobe – Explore the world's music by place on a globe](https://muglobe.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 03:19 UTC
+### [Show HN: Inference Stack – Everything you need to own your inference](https://www.inferencestack.io/)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 02:02 UTC
 
-Hi HN. I’m Ed. I built MuGlobe solo. It’s a global music discovery platform. Click on any spot on the globe and stream music from there. It’s not playlists stuck to a globe. It’s a huge ethnomusicology database that paints > 1500 musical genres onto the world then maps the overlapping influences into a virtual radio station that then generates a dynamic…
+Article URL: https://www.inferencestack.io/ Comments URL: https://news.ycombinator.com/item?id=50595502 Points: 1 # Comments: 0
 
-### [Show HN: I made my visual resume after 10 years](https://www.n10l.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 03:16 UTC
+### [Show HN: ANT IPO Simulator](https://carllapierre.github.io/clapdaq/)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 01:49 UTC
 
-My personal website too here, my best UX work https://www.nitinjaiswal.com Comments URL: https://news.ycombinator.com/item?id=50585555 Points: 2 # Comments: 0
+Article URL: https://carllapierre.github.io/clapdaq/ Comments URL: https://news.ycombinator.com/item?id=50595440 Points: 1 # Comments: 0
 
-### [Show HN: Lightweight FUSE-based encrypted, compressed filesystem for Linux](https://github.com/tgaloppo/obfusecate)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 02:17 UTC
+### [Show HN: Mount your iPhone as a filesystem on Linux over WiFi](https://github.com/Amirjon06/iphone-linux)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 01:10 UTC
 
-A personal project for digging deeper into Linux system programming, ObFUSEcate implements a file backed virtual block device that automatically performs compression and encryption as blocks are accessed. This virtual device can be mounted via FUSE (requiring no root privileges) to provide, effectively, a "live" compressed, encrypted archive. Written in…
+Article URL: https://github.com/Amirjon06/iphone-linux Comments URL: https://news.ycombinator.com/item?id=50595241 Points: 2 # Comments: 0
 
-### [Show HN: Paper Trail – Local work records](https://chromewebstore.google.com/detail/paper-trail-—-local-work/glpahjppiibjanjkknphegmlmindiapk?authuser=0&hl=zh-CN)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:57 UTC
+### [Show HN: Matinee – guess the year six films came out](https://matineegame.com/)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 00:58 UTC
 
-Article URL: https://chromewebstore.google.com/detail/paper-trail-—-local-work/glpahjppiibjanjkknphegmlmindiapk?authuser=0&hl=zh-CN Comments URL: https://news.ycombinator.com/item?id=50585080 Points: 1 # Comments: 0
+Article URL: https://matineegame.com/ Comments URL: https://news.ycombinator.com/item?id=50595173 Points: 1 # Comments: 1
 
-### [Show HN: Food Sound · White Noise ShiYin](https://nonloop.github.io/crunchy/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:55 UTC
+### [Show HN: A phase diagram of CoreWeave's GPU economics, from its Q3 10-Q](https://erikbethke.com/coreweave/index.html)
+**来源：** hnrss.org · **发布时间：** 2026-11-22 00:40 UTC
 
-Article URL: https://nonloop.github.io/crunchy/ Comments URL: https://news.ycombinator.com/item?id=50585071 Points: 1 # Comments: 0
+Article URL: https://erikbethke.com/coreweave/index.html Comments URL: https://news.ycombinator.com/item?id=50595087 Points: 1 # Comments: 1
 
-### [Show HN: AbcTab – Native Swift 6 macOS ⌘-Tab Switcher Without Screen Recording](https://solocraft.app/abctab)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:46 UTC
+### [Show HN: WorldFoundry – AI agents need experience, not just training data](https://worldfoundry-demo.vercel.app/)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 23:53 UTC
 
-Article URL: https://solocraft.app/abctab Comments URL: https://news.ycombinator.com/item?id=50585000 Points: 1 # Comments: 0
+Article URL: https://worldfoundry-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50594826 Points: 1 # Comments: 0
 
-### [Show HN: Name the World – An Atlas Quiz](https://nametheworld.starshadowx2.workers.dev/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:45 UTC
+### [Show HN: My whole life storytelling in this website](https://www.nitinjaiswal.com/)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 23:51 UTC
 
-I've been working on this country naming/geography game on and off over the past few months but most of it in Oct/Nov, using only free tier Claude (Sonnet 5 and 5.5) It started off as just wanting to make a fun little thing for myself that included features in this sort of game that I couldn't find on existing sites. As I went on with it adding more stuff…
+Article URL: https://www.nitinjaiswal.com/ Comments URL: https://news.ycombinator.com/item?id=50594814 Points: 2 # Comments: 0
 
-### [Show HN: Find and serve fast LLM config for your GPU](https://github.com/Aagam-Bothara/rigtune)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:40 UTC
+### [Show HN: Security Watch – alerts when a new vulnerability affects your stack](https://github.com/ShieldaAI/security-watch)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 23:24 UTC
 
-I was having a hard time finding settings that can let me utilise the models to maxium throughput without quality compromise so I built rigtune which helps me find the settings for my hardware and model I'm using, will love your feedback and the results if you can share for this. Comments URL: https://news.ycombinator.com/item?id=50584965 Points: 2 #…
+Article URL: https://github.com/ShieldaAI/security-watch Comments URL: https://news.ycombinator.com/item?id=50594649 Points: 2 # Comments: 0
 
-### [Show HN: yavcpdf - A keyboard-driven, vibecoded PDF viewer](https://github.com/araaha/yavcpdf)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:37 UTC
+### [Show HN: Reviving a 2012 open-source password manager for modern Android](https://jurakovic.github.io/passdroid/)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 23:23 UTC
 
-Hi HN, I wanted a PDF viewer I could drive entirely from the keyboard that could also fill in forms and sign documents. You might already be acquainted with PDF viewers like zathura and sioyek. This one is similar, except much more performant and not prone to crashes. You can also draw, annotate and fill & sign entirely via keyboard. It's based off of…
+Offline password manager for Android: a fork of Passdroid (last release 2012), brought up to date. The app has no internet permission. Two key new features: - 2FA codes (TOTP) - fingerprint unlock Plus many smaller changes and fixes, and security hardening: AES-256 with PBKDF2 at 600k iterations, AES-GCM encrypted exports. Threat model and design are in…
 
-### [Show HN: Voxstead – Live captions and bilingual call assistance for macOS](https://github.com/TriHerm/voxstead)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:28 UTC
+### [Show HN: Hearthen, an app for building and keeping strong relationships](https://hearthenapp.com)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 23:07 UTC
 
-Article URL: https://github.com/TriHerm/voxstead Comments URL: https://news.ycombinator.com/item?id=50584857 Points: 2 # Comments: 0
+Article URL: https://hearthenapp.com Comments URL: https://news.ycombinator.com/item?id=50594546 Points: 3 # Comments: 1
 
-### [Show HN: Pstview – read-only PST/OST viewer](https://github.com/publicarray/pstview)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:26 UTC
+### [Show HN: Git blame for AI code, down to the agent session](https://keepplain.com/blame)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 22:51 UTC
 
-At my work I sometimes need to recover data from old outlook files or recover emails from backup tools. Opening these files in Classic Outlook is painful and can modify the file by accident, which may be undesired. So I came up with this solution. Maybe someone else can benefit from this. Comments URL: https://news.ycombinator.com/item?id=50584843 Points: 3…
+Article URL: https://keepplain.com/blame Comments URL: https://news.ycombinator.com/item?id=50594433 Points: 1 # Comments: 0
 
-### [Show HN: Tool for WordPress that researches, writes, publishes SEO articles](https://loopseo.org/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:22 UTC
+### [Show HN: AGI: Robots Awake – a browser maze shooter](https://marcvscouto.itch.io/agi-robots-awake)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 22:32 UTC
 
-Article URL: https://loopseo.org/ Comments URL: https://news.ycombinator.com/item?id=50584815 Points: 1 # Comments: 0
+AGI: Robots Awake is a top-down maze shooter in the spirit of the 8-bit era. Every level is a new wing of the lab. Somewhere in it, one robot carries the keycard. Take it, find the exit, go deeper. Comments URL: https://news.ycombinator.com/item?id=50594311 Points: 3 # Comments: 1
 
-### [Show HN: Craoli – describe a job in one sentence, it finds real postings](https://craoli.com)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:08 UTC
+### [Show HN: Lightweight Digital Piggybank](https://app.supademo.com/video/cmwqynzsi0efcqm24gcrc2tl7)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 22:20 UTC
 
-Hey HN, I have build a tool after my own job searching. You describe the job you want in a sentence, like "backend roles in Zurich, Python, no banks", and it searches the web and companies' own career pages for it. There is no bias, no curated lists, no promotion; only a pure and powerful search. I wanted to get the real postings. The same jobs can show up…
+I have been working on this for about 3 hrs. I think it is really cool and I have already set up my current savings. No account needed no bank account details needed. Let me know what else i should add to this! Comments URL: https://news.ycombinator.com/item?id=50594226 Points: 2 # Comments: 0
 
-### [Show HN: Scots-Codes](https://github.com/vanyakosmos/scots-codes)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:04 UTC
+### [Show HN: Can AI Rewrite OpenCode in 90% Rust?](https://www.youtube.com/watch?v=SwX4OoxMaKM)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 22:14 UTC
 
-Packaged https://underwood.network/http/scots.html for kicks and giggles. Comments URL: https://news.ycombinator.com/item?id=50584683 Points: 1 # Comments: 0
+Article URL: https://www.youtube.com/watch?v=SwX4OoxMaKM Comments URL: https://news.ycombinator.com/item?id=50594166 Points: 2 # Comments: 0
 
-### [Show HN: Daybranch – Is this client request in scope?](https://www.daybranch.com/)
-**来源：** hnrss.org · **发布时间：** 2026-11-21 01:02 UTC
+### [Show HN: A playable world model of the Backrooms](https://github.com/Yelar/noclip)
+**来源：** hnrss.org · **发布时间：** 2026-11-21 22:00 UTC
 
-Article URL: https://www.daybranch.com/ Comments URL: https://news.ycombinator.com/item?id=50584667 Points: 1 # Comments: 0
+A 211M-param transformer acts as a game engine. It draws every next frame from the last 2.4 seconds and my inputs. Built a simulator of 18 Backrooms levels in PyTorch to generate the data. Recorded 440 hours of scripted play in it. Trained the model from scratch on that, using flow matching in a pretrained autoencoder's latent space. The model was trained…
+
+### [WaitFeed](https://www.producthunt.com/products/waitfeed-2)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-20 20:01 UTC
+
+Tech feed inside agent wait time Discussion | Link
+
+### [Stitch Loop](https://www.producthunt.com/products/stitch-loop)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-20 19:38 UTC
+
+Google’s AI agent that ships fixes and watches the metric Discussion | Link
+
+### [Smorza](https://www.producthunt.com/products/smorza)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-20 19:28 UTC
+
+Every Mac app gets its own volume and output Discussion | Link
+
+### [gitroots](https://www.producthunt.com/products/gitroots)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-20 13:22 UTC
+
+Path-level GitHub access for developers and AI agents Discussion | Link
 
 ### [greatai Review](https://www.producthunt.com/products/greatai-review)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-20 04:56 UTC
@@ -137,11 +157,6 @@ Understand research, test it yourself, publish your own Discussion | Link
 
 Draft Apple Mail replies with your local AI agent CLI Discussion | Link
 
-### [Interview Coach](https://www.producthunt.com/products/interview-coach-3)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-20 03:48 UTC
-
-Practice job interviews out loud Discussion | Link
-
 ### [Fack’d](https://www.producthunt.com/products/fack-d)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-20 02:06 UTC
 
@@ -151,11 +166,6 @@ Fact checks right on YouTube as it plays, with sources Discussion | Link
 **来源：** www.producthunt.com · **发布时间：** 2026-11-20 02:03 UTC
 
 Turn fabric photos into editable loom drafts Discussion | Link
-
-### [Docker](https://www.producthunt.com/products/docker)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 23:04 UTC
-
-Built to run on trust, for the agentic era Discussion | Link
 
 ### [8 Claude AI Business Ideas and How Much Money Each Can Make](https://mywifequitherjob.com/claude-ai-business-ideas/)
 **来源：** mywifequitherjob.com · **发布时间：** 2026-11-19 23:03 UTC
@@ -187,11 +197,6 @@ AI agents review and correct receipt and invoice data. Discussion | Link
 
 Turns your sleep data into one thing to do today Discussion | Link
 
-### [DMARC Pulse](https://www.producthunt.com/products/dmarc-pulse)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 20:55 UTC
-
-Find out who's sending email as your domain Discussion | Link
-
 ### [Nova by Vybe](https://www.producthunt.com/products/vybe-4)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 19:54 UTC
 
@@ -202,55 +207,25 @@ Nova audits your website free, then fixes what it finds Discussion | Link
 
 The Ctrl+Z button for autonomous AI agents Discussion | Link
 
-### [HelpCard](https://www.producthunt.com/products/helpcard)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 17:26 UTC
-
-a free emergency QR card Discussion | Link
-
-### [NetSieve](https://www.producthunt.com/products/netsieve)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 15:32 UTC
-
-Block ads, trackers and scam sites in every app on your Mac Discussion | Link
-
 ### [Currents](https://www.producthunt.com/products/currents-4)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 14:02 UTC
 
 Currents for Claude & Codex to see all your tests Discussion | Link
-
-### [Stormi](https://www.producthunt.com/products/stormi)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 12:24 UTC
-
-An AI team on your iPhone that does real work Discussion | Link
 
 ### [Andromon](https://www.producthunt.com/products/andromon)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 12:20 UTC
 
 Your Android phone, on your computer. Free. Discussion | Link
 
-### [Rox](https://www.producthunt.com/products/rox-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 12:00 UTC
-
-Your AI companion for living with chronic illness Discussion | Link
-
 ### [Tamekoshi](https://www.producthunt.com/products/tamekoshi)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 11:38 UTC
 
 A Tamagotchi-style AI companion that does real work Discussion | Link
 
-### [MakePixel](https://www.producthunt.com/products/makepixel)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 09:56 UTC
-
-Pixel art editor for game sprites, tilesets and maps Discussion | Link
-
 ### [Baby's Day In](https://www.producthunt.com/products/baby-s-day-in)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 08:50 UTC
 
 Turn two phones into a baby monitor Discussion | Link
-
-### [Inkrail](https://www.producthunt.com/products/inkrail)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-19 08:46 UTC
-
-A cozy, nostalgic typewriter experience built for deep work. Discussion | Link
 
 ### [Saparo](https://www.producthunt.com/products/saparo)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 08:29 UTC
@@ -272,6 +247,16 @@ The self-healing agent cloud by Kong Discussion | Link
 
 Instagram DMs, without the feed or Instagram account Discussion | Link
 
+### [Doddle](https://www.producthunt.com/products/doddle-3)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-19 03:30 UTC
+
+Draw on what your videos for 3D effects Discussion | Link
+
+### [Backspin](https://www.producthunt.com/products/backspin)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-19 02:52 UTC
+
+Learn to DJ in your browser, on real vinyl decks Discussion | Link
+
 ### [Zethos](https://www.producthunt.com/products/zethos)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-19 00:53 UTC
 
@@ -282,25 +267,25 @@ The ledger you and your AI work from Discussion | Link
 
 分享独立开发产品变现相关有价值的内容，每周五发布。开源AI创业系统，11周创收110万美元
 
-### [Telo](https://www.producthunt.com/products/telo-2)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-18 17:44 UTC
-
-Apple Health in ChatGPT and Claude, in any country Discussion | Link
-
 ### [Groundwork](https://www.producthunt.com/products/groundwork-6)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-18 17:21 UTC
 
 Claude Code plans that re-runs never overwrite Discussion | Link
 
-### [DWaste](https://www.producthunt.com/products/deep-waste)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-18 11:42 UTC
+### [Exa Websets V2](https://www.producthunt.com/products/exa-ai)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-18 17:15 UTC
 
-Eliminate recycling contamination with low-power Edge AI Discussion | Link
+Build custom datasets from the live web, 4x faster Discussion | Link
 
-### [pickfit](https://www.producthunt.com/products/pickfit)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-18 05:38 UTC
+### [Publicit](https://www.producthunt.com/products/publicit)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-18 15:19 UTC
 
-Every tool tested in a sandbox before it's recommended Discussion | Link
+Omnichannel ad infrastructure for marketers and AI agents Discussion | Link
+
+### [CROON](https://www.producthunt.com/products/croon)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-18 11:51 UTC
+
+Live dubbing for whatever's playing on your iPhone Discussion | Link
 
 ### [Storiara](https://www.producthunt.com/products/storiara)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-17 20:02 UTC
@@ -312,35 +297,40 @@ AI producers that find real savings in your film budget Discussion | Link
 
 Plan a group trip with one link, no account needed Discussion | Link
 
-### [Bookella](https://www.producthunt.com/products/bookella)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-17 09:56 UTC
+### [Prompt Puncher](https://www.producthunt.com/products/prompt-puncher)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-17 18:29 UTC
 
-A reading tracker that helps you read more Discussion | Link
+The AI CEO Fighting Game Discussion | Link
+
+### [Hollr](https://www.producthunt.com/products/hollr-3)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-17 12:22 UTC
+
+Push-to-talk for your family, on iPhone and Apple Watch Discussion | Link
+
+### [AlterContacts](https://www.producthunt.com/products/alter-contacts-ai-client-relationships)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-17 10:25 UTC
+
+AI client relationship assistant that thinks and does ahead Discussion | Link
 
 ### [Salus](https://www.producthunt.com/products/salus)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-17 00:35 UTC
 
 Discover benefits and public support in the Czech Republic Discussion | Link
 
+### [OpenVorld](https://www.producthunt.com/products/openvorld)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-16 19:15 UTC
+
+Give your AI agents a home and a Vorld. Discussion | Link
+
+### [Shipyard](https://www.producthunt.com/products/shipyard)
+**来源：** www.producthunt.com · **发布时间：** 2026-11-16 18:21 UTC
+
+MCP for Claude, Cursor and Codex to Automate Integrations Discussion | Link
+
 ### [664: Amazon Just Made Selling Way More Expensive (5 New Ad Types Explained)](https://mywifequitherjob.com/episode664/)
 **来源：** mywifequitherjob.com · **发布时间：** 2026-11-16 17:50 UTC
 
 Amazon's new ad types include review ads, branded conversations in Alexa for Shopping, and a black box campaign. Toni Herrbach and I break down what sellers pay. The post 664: Amazon Just Made Selling Way More Expensive (5 New Ad Types Explained) appeared first on MyWifeQuitHerJob.com .
-
-### [Same Moon](https://www.producthunt.com/products/same-moon)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-16 11:04 UTC
-
-Free bedtime stories for children who had to leave home Discussion | Link
-
-### [Tripmojo](https://www.producthunt.com/products/tripmojo)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-16 05:30 UTC
-
-Agentic travel app that helps plan, book and run your trip Discussion | Link
-
-### [Megumi Planner](https://www.producthunt.com/products/megumi-planner)
-**来源：** www.producthunt.com · **发布时间：** 2026-11-15 15:37 UTC
-
-Grow a garden together, and a community grows with it Discussion | Link
 
 ### [Cup of Sugar](https://www.producthunt.com/products/cup-of-sugar-2)
 **来源：** www.producthunt.com · **发布时间：** 2026-11-15 09:17 UTC
